@@ -1,7 +1,2 @@
 <<<<<<< HEAD
-hello asif how are u
-=======
-hello microDegree 
-edite edted by Client
---->...
->>>>>>> fd1b62d464f605528f5af08189e09fa7229dfe8b
+edite eby Client
